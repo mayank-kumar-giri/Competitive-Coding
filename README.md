@@ -1,2 +1,2 @@
 # Competitive-Coding
-My CC Participations
+My codes - AlgoDS and CC
