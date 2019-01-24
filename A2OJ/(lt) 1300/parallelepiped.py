@@ -1,0 +1,5 @@
+ab,bc,ac = map(int, input().split())
+a = int(((ab*ac)/bc)**0.5)
+b = int(((ab*bc)/ac)**0.5)
+c = int(((bc*ac)/ab)**0.5)
+print(4*(a+b+c))
